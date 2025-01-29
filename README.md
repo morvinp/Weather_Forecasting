@@ -1,6 +1,7 @@
 # Weather Forecasting
 
-This repository showcases a comprehensive project on weather trend forecasting using Python and Power BI. The project includes data cleaning, exploratory data analysis (EDA), model building, and spatial analysis.
+This repository showcases a comprehensive project on weather trend forecasting using Python and Power BI. Basic and Advanced Assessment is performed.
+The project includes data cleaning, exploratory data analysis (EDA), model building, and spatial analysis.
 
 ## Key Components
 
